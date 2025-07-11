@@ -1,2 +1,2 @@
-🖥️ 全栈魔法使 | 数据咏唱优先（Python/Scala）
-🐧 Linux 常客 | Vim 日常发动
+- 🖥️ 全栈魔法使 | 数据咏唱优先（Python/Scala）
+- 🐧 Linux 常客 | Vim 日常发动
